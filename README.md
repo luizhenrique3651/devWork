@@ -6,3 +6,5 @@ Programas instalados:
 *Android Studio
 *Netbeans
 *Visual Studio Code
+*Git
+*git Kraken
